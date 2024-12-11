@@ -1,5 +1,5 @@
 
-# Naive Retrival Augement Generation for Large Language Models
+# Naive Retrieval-augmented Generation for Large Language Models
 A simple Retrieval-Augmented Generation (RAG) system combining a Python **FastAPI** backend for natural language processing and a **Svelte** frontend for a modern, responsive user interface.
 
 
