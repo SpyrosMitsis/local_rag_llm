@@ -75,7 +75,7 @@ def check_file_existance(file: UploadFile, CSV_FILE_PATH: str = "file_hashes.csv
             writer = csv.writer(csv_file, quotechar='"', quoting=csv.QUOTE_ALL)
             writer.writerow([file_name, file_hash])
         print("Entry added.")
-  !      return entry_exists
+        return entry_exists
 
     
 
